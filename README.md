@@ -1,4 +1,5 @@
 # I made a GNU Linux NeoFetch (or FastFetch) inside Windows
+*Made on batch*
 
 - I got ASCII art of Windows from here: https://github.com/dylanaraps/neofetch/issues/1466
 
